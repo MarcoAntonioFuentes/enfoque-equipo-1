@@ -1,7 +1,18 @@
-# ENFOQUE — La mente bajo presión
+# ENFOQUE · La mente bajo presión
 
-Página informativa del Equipo 1 de la Universidad Continental, Huancayo.
+Una página informativa sobre estrés académico, atención selectiva y concentración.
 
-Estrés académico, atención selectiva y concentración. Incluye conceptos, ejemplos cotidianos y los seis integrantes del equipo.
+[Abrir la página](https://marcoantoniofuentes.github.io/enfoque-equipo-1/)
 
-[Abrir la web](https://marcoantoniofuentes.github.io/enfoque-equipo-1/)
+## Autores
+
+- Alexander Aiken Benites Fierro
+- Marco Antonio Fuentes Echavigurin
+- Soraya Ochoa Arias
+- Carlo Emilio Padilla Rojas
+- Yatzuri Xiomara Valdivia Blas
+- Christopher Jesús Veliz Cochachi
+
+Universidad Continental.
+
+Web estática adaptable a celular y laptop. Abrir `index.html` para verla de forma local.
